@@ -9,4 +9,4 @@
     [_Codish Code Sharing_](https://knightrepos.github.io/tools/codish)<br/>
 <h2>Pentesting software</h2>
 🗃 **Open-source projects** (By πentall):<br/>
-    [_Anticheck_](pentall.github.io/program/av-test/index.html)
+    [_Anticheck_](/program/av-test/index.html)
