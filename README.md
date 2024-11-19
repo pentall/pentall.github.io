@@ -8,9 +8,3 @@
     [Aleph Anonymous File Hosting](https://alephfls.github.io/)<br/>
     [Codish Code Sharing](https://knightrepos.github.io/tools/codish)<br/>
 
-Comments 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
-@mit :+1: Wow!
-@google :+1: ya boy
-@firefox :+1: goto wok
-@knightrepos :+1: cool
